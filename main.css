@@ -1,0 +1,14 @@
+body {
+    background: #161616;
+    color: #e1e1e1;
+}
+
+.wrapper {
+    width: 30em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    max-width: 18em;
+}
