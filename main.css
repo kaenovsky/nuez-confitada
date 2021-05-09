@@ -12,3 +12,28 @@ body {
 img {
     max-width: 18em;
 }
+
+h1 {
+    font-size: .9em;
+}
+
+p.wrapper {
+    font-size: .6em;
+}
+
+.social i {
+    font-size: 1em;
+    color: #e1e1e1;
+    margin: .5em;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about {
+    margin-bottom: 2em;
+    text-align: left;
+}
