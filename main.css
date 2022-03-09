@@ -47,6 +47,11 @@ p.wrapper {
     font-weight: 200;
 }
 
+.about a, .about a:hover, .about a:visited {
+    color: #e1e1e1;
+    text-decoration: none;
+}
+
 i.fas.fa-leaf {
     color: #00e400;
 }
